@@ -1,5 +1,4 @@
-[github_readme (1).md](https://github.com/user-attachments/files/34673495/github_readme.1.md)
-
+[github_readme (2).md](https://github.com/user-attachments/files/34673556/github_readme.2.md)
 # 🏛️ Citizen Management System
 
 A web-based municipal service platform built to digitalize citizen-facing operations such as identity verification, property record-keeping, rental agreement management, property tax collection, and complaint handling. Designed with municipalities like the Chattogram City Corporation in mind, the system replaces fragmented, paper-driven workflows with a single, role-based, and auditable digital portal.
@@ -66,6 +65,20 @@ The application follows a robust **Model-View-Controller (MVC)** architectural p
 | **Payment Gateway** | Stripe.NET (Hosted Checkout & DemoMode) |
 | **Email Service** | Gmail API for OTP and Notifications |
 
+## 📑 Project Report
+
+A comprehensive 25-page project report is available for further documentation. It includes detailed system designs, workflow logic, and architectural diagrams.
+
+Included in the report:
+- System Requirements Specification (SRS)
+- High-Level MVC Architecture Mapping
+- Use Case & Sequence Diagrams
+- Activity & State Diagrams for all Modules
+- Class Collaboration Diagrams (Data Models)
+- Implementation Details & Testing Workflows
+
+📥 **Download Final Report:** [Insert your Google Drive Link Here] *(Make sure privacy is set to "Anyone with the link")*
+
 ## 🔑 Demo Access
 
 The system automatically seeds demo data on the first run. You can use the following credentials to explore the platform:
@@ -73,6 +86,7 @@ The system automatically seeds demo data on the first run. You can use the follo
 * **Admin Login:**
   * Email: `admin@citizen.local`
   * Password: `Admin@123`
+
 * **Citizen Login:**
   * Email: `citizen@citizen.local`
   * Password: `Citizen@123`
@@ -94,7 +108,6 @@ The system automatically seeds demo data on the first run. You can use the follo
 | **Santusti Biswas** | **0222320005101194** | Responsive UI/UX, Document Uploads & Rent Dashboards |
 
 ## 🎓 Academic Project Details
-
 * **Course Name:** Software Development Project (CSE 3000)
 * **Semester/Batch:** 6th Semester, Section E, 44th Batch (Spring 2026)
 * **Department:** Computer Science and Engineering
@@ -102,7 +115,6 @@ The system automatically seeds demo data on the first run. You can use the follo
 * **Supervised By:** Rashed Miah (Lecturer, Dept. of CSE)
 
 ## ⭐ Support
-
 If you find this municipal management system helpful or interesting, please consider giving it a ⭐ Star!
 
 **Developed by Team Citizen Management**
